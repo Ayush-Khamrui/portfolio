@@ -80,7 +80,6 @@ pyjsparser==2.7.1
 PyMsgBox==1.0.9
 pyparsing==2.4.6
 pyperclip==1.8.2
-pypiwin32==223
 PyPrind==2.11.2
 PyQt5==5.13.0
 PyQt5-sip==4.19.18
