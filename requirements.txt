@@ -23,7 +23,6 @@ Flask==1.1.2
 Flask-SQLAlchemy==2.5.1
 future==0.17.1
 gcloud==0.17.0
-get==2019.4.13
 gevent==1.4.0
 gevent-websocket==0.10.1
 google-api-core==1.23.0
