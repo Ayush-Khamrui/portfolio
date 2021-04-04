@@ -94,8 +94,6 @@ pyttsx3==2.71
 PyTweening==1.0.3
 pytz==2019.2
 pywhatkit==3.9
-pywin32==227
-pywin32-ctypes==0.2.0
 query-string==2019.4.13
 readme-renderer==28.0
 requests==2.22.0
